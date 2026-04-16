@@ -1,4 +1,4 @@
-# Source Code Skripsi Muhamad Bagaskara
+# Listing Code Skripsi Muhamad Bagaskara
 
 ## Judul Skripsi : Pengembangan Sistem Deteksi Gestur Bahasa Isyarat BISINDO Secara Realtime Menggunakan Deep Learning
 
